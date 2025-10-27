@@ -1,1 +1,16 @@
-# NGS2025
+# 生物資源科学実験実習2025：　NGS解析
+
+### 2025年10月28日
+
+#### RENKUのセットアップ
+
+- <https://github.com/MoekoOkada/NGS2024/blob/main/renku_setup.md>
+
+#### コマンドラインまとめ
+
+- <https://github.com/MoekoOkada/NGS2024/blob/main/review_commands.md>
+
+#### Rmarkdownまとめ
+
+- <https://github.com/MoekoOkada/NGS2024/blob/main/review_markdown.md>
+
