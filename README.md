@@ -4,13 +4,13 @@
 
 #### RENKUのセットアップ
 
-- <https://github.com/MoekoOkada/NGS2024/blob/main/renku_setup.md>
+- <https://github.com/MoekoOkada/NGS2025/blob/main/renku_setup.md>
 
 #### コマンドラインまとめ
 
-- <https://github.com/MoekoOkada/NGS2024/blob/main/review_commands.md>
+- <https://github.com/MoekoOkada/NGS2025/blob/main/review_commands.md>
 
 #### Rmarkdownまとめ
 
-- <https://github.com/MoekoOkada/NGS2024/blob/main/review_markdown.md>
+- <https://github.com/MoekoOkada/NGS2025/blob/main/review_markdown.md>
 
