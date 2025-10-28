@@ -5,6 +5,7 @@
 - [なぜコマンドを使うのか？](#なぜコマンドを使うのか)
 - [Unix/Linuxで重要な概念２つ](#unixlinuxで重要な概念２つ)
 - [コマンド一覧](#コマンド一覧)
+  - [ゲノムファイルのダウンロード](#ゲノムファイルのダウンロード)
   - [コマンドのマニュアルを表示する: `man`](#コマンドのマニュアルを表示する-man)
   - [作業ディレクトリを変更する: `cd`](#作業ディレクトリを変更する-cd)
   - [ディレクトリ内のフォルダやファイルを一覧する: `ls`](#ディレクトリ内のフォルダやファイルを一覧する-ls)
@@ -62,6 +63,11 @@ Linuxコマンドでよく使うものたちを網羅的にリストアップし
 Mac/Ubuntu/CentOSなど、bioinformaticsを行うのに一般的なOSを搭載したマシンでのコマンド操作はunixをベースにしているかlinuxに近いものなので、これらのコマンドを全く同様に使えます。  
 Windowsで使う場合は改変が必要です ("`command` windows" とかってググって対応してください)。
 
+### ゲノムファイルのダウンロード
+
+```
+wget https://www.dropbox.com/scl/fo/eveszlvjupqwlngbdpc32/AElC4Iss08IM_1d1-pU8bIo?rlkey=gyx7fzumqmfe4qncv2ru5hbbh&st=5wqpt0ez&dl=0 -O genome
+```
 * * *
 
 ### コマンドのマニュアルを表示する: `man`
