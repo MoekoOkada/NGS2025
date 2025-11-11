@@ -20,3 +20,7 @@
 
 - <https://github.com/MoekoOkada/NGS2025/blob/main/RNAseq_20251111.md>
 
+#### ファイルのダウンロードに失敗した人へ
+
+ここから結果ファイルを取得してください。  
+<https://x.gd/Inoy7>
