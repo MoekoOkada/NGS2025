@@ -24,3 +24,9 @@
 
 ここから結果ファイルを取得してください。  
 <https://x.gd/Inoy7>
+
+### 2025年11月12日
+
+#### RNA-seq解析コマンドまとめ（２日目）
+
+- <https://github.com/MoekoOkada/NGS2025/blob/main/RNAseq_20251112.md>
