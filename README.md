@@ -30,3 +30,7 @@
 #### RNA-seq解析コマンドまとめ（２日目）
 
 - <https://github.com/MoekoOkada/NGS2025/blob/main/RNAseq_20251112.md>
+
+#### レポート情報
+
+- <https://github.com/MoekoOkada/NGS2025/blob/main/excercise.md>
